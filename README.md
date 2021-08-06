@@ -5,7 +5,7 @@ I have recently graduated as a full stack developer in web development at Le Wag
 - 🔭 I’m currently working on creating a user story / figma for a vintage clothing brand
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with finding my first job role in programming
 - 💬 Ask me about my dog!
 - 📫 How to reach me: joeycrushed@gmail.com
 - 😄 Pronouns: he/him
