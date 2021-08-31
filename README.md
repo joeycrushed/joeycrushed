@@ -10,6 +10,9 @@ I have recently graduated as a full stack developer in web development at Le Wag
 - 📫 How to reach me: joeycrushed@gmail.com
 - 😄 Pronouns: he/him
 
+My Portfolio
+https://joesmith.digital
+
 Paw Pals - A web application to help new dog owners socialise their dogs.
 https://paw-pals-v2.herokuapp.com/
 
