@@ -1,4 +1,4 @@
-## Hi there, My Name's Joe 👋
+## Hi, I'm Joe
 
 I'm graduate as a **full stack developer** in web development at Le Wagon, London. I have knowledge of React, Ruby on Rails, Ruby, JavaScript, HTML, CSS, SASS, Figma/Wireframes, Github, Heroku. Since graduating I have been furthering my knowledge by learning the React library and continuing to build on my JavaScript Skills.
 
