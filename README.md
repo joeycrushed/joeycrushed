@@ -7,17 +7,14 @@ I'm graduate as a **full stack developer** in web development at Le Wagon, Londo
 - I’m looking for help with finding my first job role in web development
 - How to reach me: joeycrushed@gmail.com
 
-#### My Portfolio - Check it out!
+#### My Portfolio
 https://joesmith.digital
 
-#### Paw Pals
-A web application to help new dog owners socialise their dogs.
+#### Paw Pals - A web application to help new dog owners socialise their dogs.
 https://paw-pals-v2.herokuapp.com/
 
-#### Netflix Clone 
-(with authentication & stripe payment)
+#### Netflix Clone - with authentication & stripe payment
 https://netflix-clone-7ca63.web.app/
 
-#### Plants App
-A basic web application for selling/renting a plant.
+#### Plants App - A basic web application for selling/renting a plant.
 https://plant-app-599.herokuapp.com
