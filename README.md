@@ -16,5 +16,8 @@ https://paw-pals-v2.herokuapp.com/
 #### Netflix Clone - with authentication & stripe payment
 https://netflix-clone-7ca63.web.app/
 
+#### NFL Stats Tracker
+https://laughing-agnesi-ce957e.netlify.app/
+
 #### Plants App - A basic web application for selling/renting a plant.
 https://plant-app-599.herokuapp.com
