@@ -20,4 +20,4 @@ https://netflix-clone-7ca63.web.app/
 https://laughing-agnesi-ce957e.netlify.app/
 
 #### Plants App - A basic web application for selling/renting a plant.
-https://plant-app-599.herokuapp.com
+https://plantsapp1.herokuapp.com/
