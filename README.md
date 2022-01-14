@@ -7,6 +7,7 @@ I graduated as a full stack developer in web development at Le Wagon, London. I 
 - I’m currently working an NFL statistic site that will use an API that i have built from data that I have scraped.
 - I’m currently learning the React Library & PHP
 - How to reach me: josephandrewsmith87@gmail.com
+- Gitlab: https://gitlab.com/joesmith87
 
 #### My Portfolio
 https://joesmith.digital
